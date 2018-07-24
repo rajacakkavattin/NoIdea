@@ -1,0 +1,2 @@
+# NoIdea
+game/Qt/C++
